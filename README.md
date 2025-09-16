@@ -1,5 +1,5 @@
 This is my first git repository
-Athor : Mohammad Taosif Ikram
+Author : Mohammad Taosif Ikram
 
 <!--
 **taosif-ikram/taosif-ikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
